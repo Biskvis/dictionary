@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color:azure;
+}
+
+.clicker-script-regular {
+    font-family: "Clicker Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
